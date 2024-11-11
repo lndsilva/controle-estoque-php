@@ -12,17 +12,21 @@
 
 	<header>
 		<img src="imagens/logo.png" alt="logo">
-		<nav>
-			<ul>
-				<li><a href="#">Home</li>
-				<li><a href="#">Produtos</li>
-				<li><a href="#">Fornecedores</li>
-				<li><a href="#">Categorias</li>
-			</ul>
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+			<div class="container-fluid">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Produtos</a></li>
+					<li><a href="#">Fornecedores</a></li>
+					<li><a href="#">Categorias</a></li>
+				</ul>
+			</div>
 		</nav>
 	</header>
 	<main class="container">
 		<h2>Conteúdo</h2>
+		
+
 	</main>
 	<footer>
 		<h2>Rodapé</h2>
