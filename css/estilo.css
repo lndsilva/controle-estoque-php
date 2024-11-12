@@ -1,6 +1,10 @@
 header {
-	background-color: #00BFFF;
+	background: #7431F9;
 }
 footer{
-	background-color: #00BFFF;
+	background: #7431F9;
+}
+
+a.nav-link{
+	color: black;
 }
