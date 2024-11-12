@@ -39,8 +39,12 @@
 
 
 	</main>
-	<footer>
-		<h2>Rodapé</h2>
+
+	<footer class="bg-body-tertiary text-center text-lg-start">
+		<div class="text-center p-3" style="background-color: rgba(0,0,0,0.5);">
+		© 2024 Copyright:
+		<a class="text-body" href="index.php">Home</a>
+		</div>
 	</footer>
 
 
